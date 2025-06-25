@@ -1,0 +1,619 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WHM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|c:\\users\\user\\source\\repos\\whm\\whm\\controllers\\shipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|solutionrelative:whm\\controllers\\shipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|C:\\Users\\User\\source\\repos\\WHM\\whm\\controllers\\sectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|solutionrelative:whm\\controllers\\sectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|C:\\Users\\User\\source\\repos\\WHM\\whm\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|solutionrelative:whm\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\WHM\\bll\\services\\sectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\services\\sectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\whm\\bll\\dtos\\sectionproductreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\sectionproductreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\WHM\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\WHM\\bll\\dtos\\productreleasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productreleasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\WHM\\bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\WHM\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\WHM\\bll\\dtos\\producttosectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\producttosectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\WHM\\bll\\dtos\\shipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\shipmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|c:\\users\\user\\source\\repos\\whm\\whm\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|solutionrelative:whm\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\WHM\\bll\\dtos\\sectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\sectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\whm\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\WHM\\dal\\models\\sectionproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\sectionproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|c:\\users\\user\\source\\repos\\whm\\whm\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|solutionrelative:whm\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\WHM\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|c:\\users\\user\\source\\repos\\whm\\whm\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|solutionrelative:whm\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|c:\\users\\user\\source\\repos\\whm\\whm\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|solutionrelative:whm\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\whm\\dal\\repos\\managerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\managerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\whm\\dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\whm\\dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\whm\\bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\whm\\dal\\migrations\\202506252136441_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202506252136441_token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\whm\\dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\whm\\dal\\models\\firstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\firstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\WHM\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\WHM\\dal\\repos\\sectionproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\sectionproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\WHM\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\WHM\\dal\\interfaces\\icreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\WHM\\bll\\dtos\\exdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\exdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|C:\\Users\\User\\source\\repos\\WHM\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAF0CAB-5762-4242-B663-AE87431DE1D0}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|C:\\Users\\User\\source\\repos\\WHM\\whm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5927E935-D075-4A3C-8A1C-83C0339AC9A9}|WHM\\WHM.csproj|solutionrelative:whm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\WHM\\dal\\migrations\\202506251606501_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202506251606501_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|C:\\Users\\User\\source\\repos\\WHM\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDFAD1-44D5-4548-8515-C99D61CD2EB8}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SectionProductReportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\SectionProductReportDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\SectionProductReportDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\SectionProductReportDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\SectionProductReportDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:55:34.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:10:16.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:23:26.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\services\\ProductService.cs",
+              "RelativeToolTip": "BLL\\services\\ProductService.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAmwHsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:33:47.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SectionController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Controllers\\SectionController.cs",
+              "RelativeDocumentMoniker": "WHM\\Controllers\\SectionController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Controllers\\SectionController.cs",
+              "RelativeToolTip": "WHM\\Controllers\\SectionController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:27:16.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WHM\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WHM\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAuwJ8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:37:05.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShipmentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Controllers\\ShipmentController.cs",
+              "RelativeDocumentMoniker": "WHM\\Controllers\\ShipmentController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Controllers\\ShipmentController.cs",
+              "RelativeToolTip": "WHM\\Controllers\\ShipmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:38:16.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductToSectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\ProductToSectionDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductToSectionDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\ProductToSectionDto.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProductToSectionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:58:18.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SectionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\services\\SectionService.cs",
+              "RelativeDocumentMoniker": "BLL\\services\\SectionService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\services\\SectionService.cs",
+              "RelativeToolTip": "BLL\\services\\SectionService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAG8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:58:50.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductReleaseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\ProductReleaseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductReleaseDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\ProductReleaseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProductReleaseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:30:01.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShipmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\ShipmentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ShipmentDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\ShipmentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ShipmentDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:28:29.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SectionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\SectionDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\SectionDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\SectionDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\SectionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:28:20.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\services\\AuthService.cs",
+              "RelativeToolTip": "BLL\\services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:13:32.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "WHM\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "WHM\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:22:09.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SectionProducts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Models\\SectionProducts.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\SectionProducts.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Models\\SectionProducts.cs",
+              "RelativeToolTip": "DAL\\Models\\SectionProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:01:23.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WHM\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WHM\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:29:46.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:04:03.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WHM\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WHM\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:48:26.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "WHM\\Auth\\Logged.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Auth\\Logged.cs",
+              "RelativeToolTip": "WHM\\Auth\\Logged.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:19:04.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Repos\\ManagerRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ManagerRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Repos\\ManagerRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ManagerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:06:24.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Token.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Models\\Token.cs",
+              "RelativeToolTip": "DAL\\Models\\Token.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:54:21.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "202506252136441_token.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Migrations\\202506252136441_token.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202506252136441_token.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Migrations\\202506252136441_token.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202506252136441_token.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:36:47.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:38:15.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\interfaces\\IAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\IAuth.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\interfaces\\IAuth.cs",
+              "RelativeToolTip": "DAL\\interfaces\\IAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:54:44.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FirstDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Models\\FirstDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\FirstDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Models\\FirstDbContext.cs",
+              "RelativeToolTip": "DAL\\Models\\FirstDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:58:49.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TokenRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\TokenRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\TokenRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:57:07.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:31:38.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\interfaces\\ICreate.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\ICreate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\interfaces\\ICreate.cs",
+              "RelativeToolTip": "DAL\\interfaces\\ICreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:47:33.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:47:40.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SectionProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Repos\\SectionProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\SectionProductRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Repos\\SectionProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\SectionProductRepo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:51:33.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\ExDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ExDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\DTOs\\ExDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ExDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:25:57.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:56:22.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "202506251606501_create.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Migrations\\202506251606501_create.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202506251606501_create.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Migrations\\202506251606501_create.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202506251606501_create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:07:01.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Web.config",
+              "RelativeDocumentMoniker": "WHM\\Web.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\WHM\\Web.config",
+              "RelativeToolTip": "WHM\\Web.config",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-25T16:02:13.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WHM\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:56:37.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
