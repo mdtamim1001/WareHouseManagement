@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Mail;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
@@ -43,9 +45,43 @@ namespace BLL.Services
             });
 
             var mapper = new Mapper(cfg);
-            var obj = mapper.Map<Shipment>(dto);
-            return DAL.DataAccessFactory.ShipmentData().Create(obj);
+            var shipment = mapper.Map<Shipment>(dto);
+
+            var created = DAL.DataAccessFactory.ShipmentData().Create(shipment);
+            if (!created) return false;
+
+            // Send email to fixed recipient
+            try
+            {
+                var message = new MailMessage("tamimyousuf2001@gmail.com", "mdtamim26301@gmail.com");
+                message.Subject = $"Shipment Created: {dto.Name}";
+                message.Body = $"Your shipment '{dto.Name}' to '{dto.Destination}' has been created.\n\n" +
+                               $"Direction: {dto.Direction}\n" +
+                               $"Quantity: {dto.Quantity}\n" +
+                               $"Release Date: {dto.ReleaseDate:yyyy-MM-dd}\n" +
+                               $"Reach Date: {dto.ReachDate:yyyy-MM-dd}\n" +
+                               $"Status: {dto.Status}";
+
+                var smtp = new SmtpClient("smtp.gmail.com", 587)
+                {
+                    Credentials = new NetworkCredential("tamimyousuf2001@gmail.com", "iqvr frgb ocfc ubbe"),
+                    EnableSsl = true
+                };
+
+                smtp.Send(message);
+            }
+            catch (Exception ex)
+            {
+                // Log or handle the error if needed
+                Console.WriteLine("Email sending failed: " + ex.Message);
+            }
+
+            return true;
         }
+
+
+
+
 
         public static bool Update(ShipmentDTO dto)
         {

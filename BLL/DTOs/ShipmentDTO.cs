@@ -23,6 +23,7 @@ namespace BLL.DTOs
         public DateTime ReachDate { get; set; }
         [Required]
         public string Status { get; set; }
+        public int Addedby { get; set; }
 
     }
 }

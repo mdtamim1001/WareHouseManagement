@@ -59,7 +59,9 @@ namespace WHM.Controllers
             }
             catch (Exception ex)
             {
-                return Request.CreateResponse(HttpStatusCode.InternalServerError, new { ex.Message });
+                // Show full exception message (including inner exception if available)
+                var error = ex.InnerException?.InnerException?.Message ?? ex.Message;
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, new { Message = "Error: " + error });
             }
         }
 
