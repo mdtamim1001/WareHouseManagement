@@ -21,3 +21,40 @@
 - Follows **RESTful design** for API endpoints
 
 ---
+## ✅ What’s Already Done in This Project
+
+### 🔧 RESTful API Development
+- Built using **ASP.NET Framework Web API** with clean routing and HTTP method conventions.
+
+### 🧱 3-Tier Architecture with SOLID Principles
+- Implemented clear separation of concerns:
+  - **Data Access Layer (DAL)**
+  - **Business Logic Layer (BLL)**
+  - **API Layer**
+- Applied **SOLID design principles** and the **Generic Repository Pattern**.
+
+### 📦 Full CRUD Functionality
+- Create, Read, Update, and Delete operations for:
+  - **Products**
+  - **Shipments**
+  - **Sections**
+  - **Locations**
+  - **Managers**
+
+### 📁 File Handling & Export
+- Generates and downloads section-wise product reports as `.txt` files via a dedicated API endpoint.
+
+### ⚠️ Expiry Alert System
+- Identifies and returns products expiring within a specified number of days.
+
+### ✉️ SMTP Email Notifications
+- Sends automated emails to a fixed recipient when a new shipment is created.
+
+### 🔁 Entity Relationships
+- Modeled and implemented:
+  - **One-to-many** (e.g., Section ↔ Product)
+  - **Many-to-many** (e.g., Shipment ↔ Product) relationships.
+
+### ✅ Input Validation & Exception Handling
+- Uses **Data Annotations** for validation.
+- Implements **try-catch blocks** for robust error handling.
