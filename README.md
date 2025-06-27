@@ -25,21 +25,9 @@
 
 ### 🔧 RESTful API Development
 - Built using **ASP.NET Framework Web API** with clean routing and HTTP method conventions.
-
-### 🧱 3-Tier Architecture with SOLID Principles
-- Implemented clear separation of concerns:
-  - **Data Access Layer (DAL)**
-  - **Business Logic Layer (BLL)**
-  - **API Layer**
-- Applied **SOLID design principles** and the **Generic Repository Pattern**.
-
+- 
 ### 📦 Full CRUD Functionality
-- Create, Read, Update, and Delete operations for:
-  - **Products**
-  - **Shipments**
-  - **Sections**
-  - **Locations**
-  - **Managers**
+- Create, Read, Update, and Delete operations for Products, Shipments, Sections, Managers
 
 ### 📁 File Handling & Export
 - Generates and downloads section-wise product reports as `.txt` files via a dedicated API endpoint.
